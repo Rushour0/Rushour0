@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, Rushikesh Here</h1>
 <h3 align="center">Student in Second Year. Aspiring to break records at god speed </h3>
 <br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Rushour0 alt=rushour0/> </p>
 
 - ⚡ Fast learner
 - 🧠 AI / ML enthusiast
 - 🎮 Learning game development for
 - ✨ Flutter is just a hobby
+- 🤔 I’m looking for Internships.
 
 <br>
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
