@@ -41,9 +41,9 @@
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
-<a href="https://instagram.com/pataderushikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pataderushikesh" height="30" width="30" /></a>
-<a href="https://twitter.com/pataderushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pataderushikesh" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pataderushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pataderushikesh" height="30" width="30" /></a>
+<a href="https://instagram.com/pataderushikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pataderushikesh" height="30" width="30" />  </a> &nbsp;
+<a href="https://twitter.com/pataderushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pataderushikesh" height="30" width="30" />  </a> &nbsp;
+<a href="https://linkedin.com/in/pataderushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pataderushikesh" height="30" width="30" /> </a> &nbsp;
 </p>
 <br>
 <p align="left">
