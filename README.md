@@ -1,5 +1,5 @@
 <h1 align="center">Rushikesh Here</h1>
-<h3 align="left">Student in Second Year. Aspiring to break records at god speed </h3>
+<h3 align="center">Student in Second Year. Aspiring to break records at god speed </h3>
 <br>
 
 - ⚡ Fast learner
@@ -8,9 +8,9 @@
 - ✨ Flutter is just a hobby
 
 
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
 
-<p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
 
 
 **<h3 align="center">Languages and Tools:</h3>**
