@@ -1,12 +1,19 @@
 <h1 align="center">Rushikesh Here</h1>
-<h3 align="center">Student in Second Year. Aspiring to break records at god speed </h3>
+<h3 align="left">Student in Second Year. Aspiring to break records at god speed </h3>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
+- ⚡ Fast learner
+- 🧠 AI / ML enthusiast
+- 🎮 Learning game development for
+- ✨ Flutter is just a hobby
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
+
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
+
+<p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+**<h3 align="center">Languages and Tools:</h3>**
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -32,7 +39,7 @@
 </p>
 
 
-<h3 align="center">Connect with me:</h3>
+**<h3 align="center">Connect with me:</h3>**
 <p align="center">
 <a href="https://instagram.com/pataderushikes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pataderushikesh" height="30" width="40" /></a>
 <a href="https://twitter.com/pataderushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pataderushikesh" height="30" width="40" /></a>
