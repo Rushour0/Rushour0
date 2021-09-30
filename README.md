@@ -5,7 +5,7 @@
 
 - ⚡ Fast learner
 - 🧠 AI / ML enthusiast
-- 🎮 Learning game development for
+- 🎮 Learning game development for fun
 - ✨ Flutter is just a hobby
 - 🤔 I’m looking for Internships.
 
