@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, Rushikesh Here</h1>
-<h3 align="left">Student in Second Year. Aspiring to break records at god speed </h3>
+<h1 align="center">Hi 👋, Rushikesh Here</h1>
+<h3 align="center">Student in Second Year. Aspiring to break records at god speed </h3>
 <br>
 
 - ⚡ Fast learner
