@@ -10,8 +10,6 @@
 - 🤔 I’m looking for Internships.
 
 <br>
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushour0&show_icons=true&locale=en" alt="rushour0" /></p>
-<br>
 <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
 
 
