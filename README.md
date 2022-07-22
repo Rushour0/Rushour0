@@ -5,8 +5,7 @@
 
 - ⚡ Fast learner
 - 🧠 AI / ML enthusiast
-- 🎮 Learning game development for fun
-- ✨ Flutter is just a hobby
+- ✨ Flutter / React / Node.js Developer
 - 🤔 I’m looking for Internships.
 
 <br>
