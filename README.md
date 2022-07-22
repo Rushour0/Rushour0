@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> -->
     <a href="https://dart.dev/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/dart.svg" alt="dart" width="40" height="40"/> 
     </a> 
 </p>
 <p align="left">
@@ -47,11 +47,14 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
     <a href="https://flutter.dev" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/flutter.svg" alt="flutter" width="40" height="40"/> 
     </a> 
-    <a href="https://developer.android.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
-    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> 
+    </a>
 </p>
 
 
