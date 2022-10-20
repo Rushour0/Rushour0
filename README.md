@@ -5,7 +5,7 @@
 
 - ⚡ Fast learner
 - 🧠 AI / ML enthusiast
-- ✨ Flutter / React / Node.js Developer
+- ✨ Flutter / React Developer
 - 🤔 I’m looking for Internships.
 
 <br>
