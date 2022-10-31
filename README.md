@@ -11,7 +11,7 @@
 <br>
 <p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
 <br>
-[![Rushikesh's github stats](https://github-readme-stats.vercel.app/api?username=Rushour0&show_icons=true&theme=default)](https://github.com/Rushour0/Rushour0)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushour0&show_icons=true&theme=default" alt="Rushour0">
 <br/>
 
 
