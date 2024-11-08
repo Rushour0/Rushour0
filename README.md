@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Rushikesh Here</h1>
-<h3 align="center">Student in Second Year. Aspiring to break records at god speed </h3>
+<h3 align="center">Student in For Life. Aspiring to break records at god speed </h3>
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Rushour0 alt=rushour0/> </p>
 
