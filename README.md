@@ -8,11 +8,6 @@
 - ✨ Flutter / React Developer
 - 🤔 I’m looking for Internships.
 
-<br>
-<p align="left"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushour0" alt="rushour0" /></p>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushour0&show_icons=true&theme=default" alt="Rushour0">
-<br/>
 
 
 **<h3 align="left">Languages and Tools:</h3>**
