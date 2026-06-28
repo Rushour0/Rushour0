@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Patade</h1>
-<h3 align="center">Building AI agent infrastructure — and a slightly undeniable god complex, someday soon.</h3>
+<h3 align="center">Full-stack & distributed-systems engineer — backend pipelines, realtime frontends, AI agent infra.</h3>
+<p align="center"><i>Building well, shipping fast — and a slightly undeniable god complex, someday soon.</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rushour0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,33 +10,60 @@
 
 ### 🚀 About Me
 
-- 🧠 I build **LLM agent systems** — memory, orchestration, and tooling that let agents actually get work done.
-- 🔧 Currently working on **[fabri](https://github.com/Rushour0/fabri)** — a local memory + orchestration layer for custom LLM agents (SCOPE-style tactical/strategic memory over execution traces, Qdrant-backed, polyglot subprocess tools, agent-as-tool composition).
+- 🛠️ I work across the stack — **Go distributed backends**, **React realtime frontends**, and the **infra/CI** that ships them.
+- 🧠 I build **LLM agent systems** — memory, orchestration, judging pipelines, and cost observability.
+- 🔧 Currently building **[fabri](https://github.com/Rushour0/fabri)** — a local memory + orchestration layer for custom LLM agents (Qdrant-backed tactical/strategic memory, polyglot subprocess tools, agent-as-tool composition).
 - 🏆 **Smart India Hackathon 2022 winner** — [NaksheKadam](https://github.com/Rushour0/Nakshekadam-SIH).
-- 🎨 Full-stack across **Flutter / React** frontends and **Python** backends.
-- 🤖 Long-time **AI / ML** tinkerer — from VGG/SSD from scratch to BLIP + GPT-2 image captioning.
-- ⚡ Fast learner, ships fast, breaks things faster.
+- 🎨 Comfortable from **schema design** to **pixels** — and the migrations, queues, and deploy pipelines in between.
+
+---
+
+### 🧰 What I Work On
+
+**⚙️ Backend & Distributed Systems (Go)**
+- Design multi-stage data pipelines — ledger/schema design, entity-resolution layers, candidate generation, LLM-as-judge stages with veto/gating logic, and allocators / epoch runners.
+- Write safe backfill & migration scripts to roll out schema and engine changes across live data without losing sanity.
+- Harden Postgres-backed task queues — at-most-once claims, stale-job reclaim, configurable timeouts with detached ack/fail contexts, closing silent failure paths.
+- Tune DB connection pools against constrained poolers to kill pool-exhaustion failures; build LLM cost/usage observability ledgers tracking per-call token spend.
+
+**🖥️ Frontend (React / TanStack Query / Zustand)**
+- Architect end-to-end state & data layers from scratch — a realtime sync bus over React Query (server state) + Zustand (client state), setting the patterns for data flow, caching, and live updates.
+- Build data-heavy admin surfaces — review/approval consoles, health dashboards, and cost/usage views with server-side search & pagination.
+
+**☁️ Infra & Environments**
+- Architect polyglot monorepos (Nx) spanning Go + Deno edge + Python + Vite; migrate off legacy multi-app setups.
+- Stand up isolated staging/prod environments with separate secrets, plus per-PR preview environments with auto-teardown.
+- Wire realtime/voice (LiveKit) agent deploys per environment with runtime secret injection.
+
+**🔁 CI/CD & Releases**
+- Overhaul CI/CD — explicit GitHub Actions deploys, one-click redeploys, and schema drift-guards keeping CI integration tests in sync with migrations.
+- Own releases as the merge/promotion gatekeeper (dev → prod) and review teammates' PRs.
+- Debug realtime voice-agent systems — recording egress, transcription, dispatch races, and staging regressions.
 
 ---
 
 ### 🛠️ Tech Stack
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1FD5C9?style=for-the-badge&logo=livekit&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
