@@ -18,27 +18,19 @@
 
 ---
 
-### 🧰 What I Work On
+### 🧰 What I Can Do
 
-**⚙️ Backend & Distributed Systems (Go)**
-- Design multi-stage data pipelines — ledger/schema design, entity-resolution layers, candidate generation, LLM-as-judge stages with veto/gating logic, and allocators / epoch runners.
-- Write safe backfill & migration scripts to roll out schema and engine changes across live data without losing sanity.
-- Harden Postgres-backed task queues — at-most-once claims, stale-job reclaim, configurable timeouts with detached ack/fail contexts, closing silent failure paths.
-- Tune DB connection pools against constrained poolers to kill pool-exhaustion failures; build LLM cost/usage observability ledgers tracking per-call token spend.
+**⚙️ Backend & distributed systems (Go)**
+- Build correctness-critical services and multi-stage data pipelines that stay sane under failure.
+- Make stateful systems reliable — work that's never dropped or double-processed, safe migrations over live data, and databases tuned to survive real load.
 
-**🖥️ Frontend (React / TanStack Query / Zustand)**
-- Architect end-to-end state & data layers from scratch — a realtime sync bus over React Query (server state) + Zustand (client state), setting the patterns for data flow, caching, and live updates.
-- Build data-heavy admin surfaces — review/approval consoles, health dashboards, and cost/usage views with server-side search & pagination.
+**🖥️ Frontend (React)**
+- Architect the data layer, not just the screens — realtime server/client state sync, caching, and patterns a team can build on.
+- Ship dense, data-heavy tooling — admin consoles, health dashboards, and views with server-driven search & pagination.
 
-**☁️ Infra & Environments**
-- Architect polyglot monorepos (Nx) spanning Go + Deno edge + Python + Vite; migrate off legacy multi-app setups.
-- Stand up isolated staging/prod environments with separate secrets, plus per-PR preview environments with auto-teardown.
-- Wire realtime/voice (LiveKit) agent deploys per environment with runtime secret injection.
-
-**🔁 CI/CD & Releases**
-- Overhaul CI/CD — explicit GitHub Actions deploys, one-click redeploys, and schema drift-guards keeping CI integration tests in sync with migrations.
-- Own releases as the merge/promotion gatekeeper (dev → prod) and review teammates' PRs.
-- Debug realtime voice-agent systems — recording egress, transcription, dispatch races, and staging regressions.
+**☁️ Infra, CI/CD & releases**
+- Own the path from commit to production — polyglot monorepos, isolated environments with per-PR previews, and pipelines that catch drift before it ships.
+- Gatekeep releases, review others' work, and debug messy realtime/voice systems end to end.
 
 ---
 
